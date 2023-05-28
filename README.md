@@ -1,7 +1,18 @@
 ### Hi there 👋
+
+### :calendar: My GitHub Status
 ![Xeokj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xeokj&show_icons=true&theme=tokyonight)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=backspace22)](https://solved.ac/backspace22)
+
+
+### :bar_chart: Most Used Language
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xeokj&layout=Demo&theme=tokyonight)
+
+
+### Baekjoon Online Judge Solved Rank (:hatching_chick:)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=backspace22)](https://solved.ac/backspace22)
+
+
+### Tistory Blog Link
 [![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)]("https://jangkunstory.tistory.com/)
 
 
