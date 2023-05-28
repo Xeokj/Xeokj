@@ -1,4 +1,9 @@
 ### Hi there 👋
+![Xeokj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xeokj&show_icons=true&theme=tokyonight)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=backspace22)](https://solved.ac/backspace22)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xeokj&layout=Demo&theme=tokyonight)
+[![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)]("https://jangkunstory.tistory.com/)
+
 
 <!--
 **Xeokj/Xeokj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
