@@ -8,7 +8,7 @@
 
 ### :bar_chart: Most Used Language
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xeokj&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xeokj&layout=Demo&theme=tokyonight)](https://github.com/Xeokj/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xeokj&theme=tokyonight)](https://github.com/Xeokj/github-readme-stats)
 
 ### Baekjoon Online Judge Solved Rank (:hatching_chick:)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=backspace22)](https://solved.ac/backspace22)
