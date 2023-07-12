@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=waving)
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome!%20render&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome!&fontSize=70" />
 
 ### :calendar: My GitHub Status
 ![Xeokj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xeokj&show_icons=true&theme=tokyonight)
