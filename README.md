@@ -2,6 +2,14 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome!&fontSize=70" />
 
+<h3 align="left">🛠 Tech Stack 🛠</h3>
+<img src="https://img.shields.io/badge/C-#0099E5?style=for-the-badge&logo=C&logoColor=white">
+<img src="https://img.shields.io/badge/C++-#071D49?style=for-the-badge&logo=C++&logoColor=white">
+<img src="https://img.shields.io/badge/HTML-#EF2D5E?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS-#9999FF?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-#FFA500?style=for-the-badge&logo=JavaScript&logoColor=white">
+<img src="https://img.shields.io/badge/React-#5C1F87?style=for-the-badge&logo=react&logoColor=white">
+
 ### :calendar: My GitHub Status
 ![Xeokj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xeokj&show_icons=true&theme=tokyonight)
 
