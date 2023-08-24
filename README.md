@@ -4,11 +4,12 @@
 
 <h3 align="left">🛠 Tech Stack 🛠</h3>
 <span><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></span>
-<img src="https://img.shields.io/badge/c++-#071D49?style=for-the-badge&logo=c&logoColor=white">
-<img src="https://img.shields.io/badge/html-#EF2D5E?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/css-#9999FF?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/javascript-#FFA500?style=for-the-badge&logo=javascript&logoColor=white">
-<img src="https://img.shields.io/badge/react-#5C1F87?style=for-the-badge&logo=react&logoColor=white">
+<img src="https://img.shields.io/badge/c++-071D49?style=for-the-badge&logo=c&logoColor=white">
+<img src="https://img.shields.io/badge/html-EF2D5E?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/css-9999FF?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/javascript-FFA500?style=for-the-badge&logo=javascript&logoColor=white">
+<img src="https://img.shields.io/badge/react-5C1F87?style=for-the-badge&logo=react&logoColor=white">
+
 
 ### :calendar: My GitHub Status
 ![Xeokj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xeokj&show_icons=true&theme=tokyonight)
