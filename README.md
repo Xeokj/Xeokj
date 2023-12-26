@@ -11,7 +11,6 @@
   <img src="https://img.shields.io/badge/html-EF2D5E?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css-9999FF?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white">
-  <img src="https://img.shields.io/badge/yaml-EC6813?style=for-the-badge&logo=yaml&logoColor=white">
 </div>
 
 ### :calendar: My GitHub Status
